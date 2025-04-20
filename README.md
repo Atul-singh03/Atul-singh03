@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
 <img align="center" alt="Coding" width="100%" src="https://github.com/sunidhi014/sunidhi014/blob/main/banner.gif" />
+<div style="height: 2px; background: linear-gradient(to right, #f39c12, #8e44ad); margin: 10px 0;"></div>
 
----
 
 ### 🙋‍♂️ About Me
 
