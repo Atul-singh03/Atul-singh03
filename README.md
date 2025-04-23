@@ -1,52 +1,17 @@
-<h1 align="center">Hi 👋, I'm Atul Singh</h1>
-<h3 align="center">A passionate Java Full Stack Developer from India</h3>
-
-<img align="center" alt="Coding" width="100%" src="https://github.com/sunidhi014/sunidhi014/blob/main/banner.gif" />
-<div style="height: 2px; background: linear-gradient(to right, #f39c12, #8e44ad); margin: 10px 0;"></div>
+Hi, I'm Atul Singh, a passionate and motivated Java Full Stack Developer and final-year Computer Science Engineering student at Bansal Institute of Science and Technology, Bhopal. I love building scalable web applications and exploring the world of cloud computing, DevOps, and cybersecurity.<br><br>💻 Tech Stack<br>Languages: Java, JavaScript, C, C++<br><br>Frontend: React.js, HTML, CSS, Tailwind, Bootstrap<br><br>Backend: Spring Core, Servlets, JDBC, JSP<br><br>Databases: MySQL, Oracle<br><br>DevOps & Cloud: Docker, CI/CD (GitHub Actions, Jenkins), Microsoft Azure (AZ-900 Certified)<br><br>Tools & Version Control: Git, GitHub, GitLab<br><br>🚀 Projects<br>Trading Platform – Built with Spring Boot & React.js<br><br>Plant Ordering Site – Integrated with Azure Chatbot Service<br><br>Food Ordering Platform – Cloud-based using Azure Services<br><br>🏆 Achievements<br>🥇 Winner of Debugging Competition (Bansalotsav 2023)<br><br>💡 Finalist at Smart India Hackathon (SIH) and Codective Hackathon<br><br>🎓 Multiple Certifications including AZ-900, NPTEL Java (Elite), DSA, Power BI, and more<br><br>🎙️ Beyond Coding<br>📢 President, EDC Club @ BIST – Led various tech and entrepreneurial events<br><br>🎧 Speaker & Content Creator – Recording audios on tech and motivational topics<br><br>🔐 Active Volunteer in OWASP Bhopal Community<br><br>📫 Let's Connect!<br>💼 LinkedIn<br><br>📁 Portfolio (Notion)<br><br>🧑‍💻 LeetCode | HackerRank
 
 
-### 🙋‍♂️ About Me
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/atul-singh03.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atul-singh-16494121b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atulsingh81095@gmail.com) 
 
-- 🎓 Final year student at **Bansal Institute of Science and Technology, Bhopal**
-- 💻 I'm a **Java Full Stack Developer**
-- 🔍 Exploring **Cloud, DevOps & Security**
-- 🔭 I’m looking to contribute to **Open Source**
-- 🎯 I’m currently revising **DSA, Core Java & preparing for GATE**
-- 🏆 Winner of Debugging Competition at Bansalotsav 2023
-- 👨‍💼 President at EDC Club, BIST
-- 📫 Reach me at: [atuldeveloper20@gmail.com](mailto:atuldeveloper20@gmail.com)
-- 🔗 Know more: [Portfolio](#)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Atul-singh03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Atul-singh03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-singh03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Atul-singh03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,bootstrap,tailwind,cpp,c,mysql,oracle,azure,docker,git,github,figma" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📬 Reach Me Out
-
-<p align="left">
-  <a href="mailto:atuldeveloper20@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/atul-singh-a209b4217/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/atulsingh0404"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">✨ Powered by passion & curiosity ✨</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
